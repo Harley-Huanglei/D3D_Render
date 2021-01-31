@@ -1,2 +1,2 @@
-# d3d_render
-demo for d3d render
+# D3D_Render
+demo for D3D render
